@@ -18,4 +18,5 @@ Create diagrams from textual descriptions from kroki.io.
 After tapping:
 ```bash
 brew install kroki
+brew install cliproxyapi-plus
 ```
